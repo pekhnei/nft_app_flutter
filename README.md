@@ -1,16 +1,1 @@
-# nft_app_flutter
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![189307034-6fbaa32f-8312-4b46-820e-3ce823d593bf](https://user-images.githubusercontent.com/20607629/189478333-a3d48fff-519d-4e6b-b1e4-c72314691587.png)
